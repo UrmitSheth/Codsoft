@@ -1,5 +1,5 @@
 # Urmit_Sheth
-# Task-3: Password generator 
+# Task-3: Password Generator 
 from tkinter import *
 import random, string  
 import pyperclip
